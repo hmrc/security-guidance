@@ -1,0 +1,3 @@
+Contact: https://www.gov.uk/guidance/report-a-security-vulnerability-in-an-hmrc-online-service
+Canonical: https://www.tax.service.gov.uk/.well-known/security.txt
+Preferred-Languages: en
