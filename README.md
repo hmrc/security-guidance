@@ -1,7 +1,7 @@
 
 # security-guidance
 
-This is a placeholder README.md for a new repository
+This repo contains the [security.txt](./security.txt) for https://www.tax.service.gov.uk
 
 ### License
 
