@@ -1,3 +1,5 @@
-Contact: https://www.gov.uk/guidance/report-a-security-vulnerability-in-an-hmrc-online-service
-Canonical: https://www.tax.service.gov.uk/.well-known/security.txt
+Contact: mailto:vulnerability.reporting@hmrc.gov.uk
+Expires: 2022-10-31T00:00:00.000Z
 Preferred-Languages: en
+Canonical: https://www.tax.service.gov.uk/.well-known/security.txt
+Policy: https://www.gov.uk/guidance/report-a-security-vulnerability-in-an-hmrc-online-service
