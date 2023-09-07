@@ -1,3 +1,3 @@
 # We would like to thank the following:
 # [yyyy-mm-dd] Name -- description
-# [2023-09-01] Diego Jurado (djurado)
+# [2023-09-01] Diego Jurado (djurado) -- Open Redirect
