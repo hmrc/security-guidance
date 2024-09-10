@@ -1,4 +1,3 @@
-Contact: mailto:vulnerability.reporting@hmrc.gov.uk
 Contact: https://www.ncsc.gov.uk/information/vulnerability-reporting
 Expires: 2025-10-02T23:00:00.000Z
 Acknowledgments: https://raw.githubusercontent.com/hmrc/security-guidance/main/thanks.txt
