@@ -1,3 +1,5 @@
 # We would like to thank the following:
-# [yyyy-mm-dd] Name
 # [2023-09-01] Diego Jurado (djurado)
+# [2024-09-02] KolCyberDef (kolcyberdef)
+# [2025-10-24] Alan Avins (alanavins)
+# [2026-09-21] Chris Nesbitt-Smith (cnsme)
